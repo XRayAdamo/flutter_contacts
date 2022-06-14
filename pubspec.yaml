@@ -25,3 +25,5 @@ flutter:
         pluginClass: FlutterContactsPlugin
       ios:
         pluginClass: FlutterContactsPlugin
+      macos:
+        pluginClass: FlutterContactsPlugin
